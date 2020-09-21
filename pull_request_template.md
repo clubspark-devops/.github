@@ -30,19 +30,8 @@
 ### Documentation
 
 - [ ] New features are documented in Confluence
-- [ ] New endpoints are documented in Swagger
 
 ### Code Quality/Style
 
-- [ ] This PR conforms to our [code style guidelines](https://github.com/clubspark/docs/blob/master/README.md)
-- [ ] This PR is unit tested
-- [ ] Does this PR require integration testing?
+- [ ] This PR conforms to our [code style guidelines](https://github.com/clubspark-devops/docs/blob/master/README.md)
 - [ ] Does this PR require regression testing?
-
-### Deployment / Automation
-
-- [ ] Does this PR require any SQL scripts?
-- [ ] Does this PR require any new infrastructure?
-- [ ] Does this PR add new dependencies? (e.g. Mailjet, Salesforce, etc)
-- [ ] Does this PR include appropriate logging?
-- [ ] Does this PR include new monitoring endpoints?
