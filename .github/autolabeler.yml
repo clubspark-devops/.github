@@ -1,0 +1,12 @@
+terraform: ["*.tf"]
+powershell: ["*.ps1"]
+sql: ["*.sql"]
+yaml: ["*.yaml", "*.yml"]
+csharp: ["*.cs"]
+python: ["*.py"]
+docs: ["/docs"]
+partner: ["/platform/environment_variables/partner", "/platform/stacks/partner", "partner.tfvars"]
+environment: ["/platform/environment_variables/environment", "/platform/stacks/environment", "environment.tfvars"]
+regional: ["/platform/environment_variables/regional", "/platform/stacks/regional", "regional.tfvars"]
+subscription: ["/platform/environment_variables/subscription", "/platform/stacks/subscription", "subscription.tfvars"]
+pipeline: .github
